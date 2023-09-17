@@ -107,6 +107,7 @@ blockquote {
   list-style: none;
   display: flex;
   gap: 3em;
+  overflow-y: scroll;
 }
 
 .info-list-item {
